@@ -1,0 +1,16 @@
+11/18/2022 03:55:22 PM ERROR: division by zero
+11/18/2022 03:55:23 PM ERROR: object of type 'NoneType' has no len()
+11/18/2022 03:55:23 PM ERROR: 'NoneType' object has no attribute 'items'
+11/18/2022 04:03:04 PM ERROR: <built-in method with_traceback of ZeroDivisionError object at 0x00000287474AD800>
+11/18/2022 04:03:06 PM ERROR: object of type 'NoneType' has no len()
+11/18/2022 04:03:06 PM ERROR: 'NoneType' object has no attribute 'items'
+11/18/2022 04:04:51 PM ERROR: Error occured in update_data method. division by zero
+11/18/2022 04:04:52 PM ERROR: object of type 'NoneType' has no len()
+11/18/2022 04:04:52 PM ERROR: 'NoneType' object has no attribute 'items'
+11/18/2022 04:09:59 PM ERROR: DBOperations.fetch_data() missing 1 required positional argument: 'data'
+11/18/2022 05:31:47 PM ERROR: ***Error occured in update_data method.*** division by zero
+11/18/2022 05:31:48 PM ERROR: ***Error occured in scrape_data method.*** object of type 'NoneType' has no len()
+11/18/2022 05:31:48 PM ERROR: ***Error occured in save_data method.*** 'NoneType' object has no attribute 'items'
+11/18/2022 05:33:56 PM ERROR: ***Error occured in update_data method.*** division by zero
+11/18/2022 05:33:56 PM ERROR: ***Error occured in scrape_data method.*** object of type 'NoneType' has no len()
+11/18/2022 05:33:56 PM ERROR: ***Error occured in save_data method.*** 'NoneType' object has no attribute 'items'
